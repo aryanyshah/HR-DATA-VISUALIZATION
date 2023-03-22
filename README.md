@@ -1,2 +1,3 @@
 # HR-DATA-VISUALIZATION
 CONVERTING CSV DATA INTO  VISUALLY APPEALING CHARTS.
+![image](https://user-images.githubusercontent.com/115652800/226823948-24df786c-c8e4-46da-80e4-8fcf5d36c07a.png)
